@@ -1,0 +1,10 @@
+C:\Users\kisang\source\vcpp\Flappy_bird\Flappy_Bird_Game\Flappy_Bird_Game\Flappy_Bird_Game\bin\Debug\Flappy_Bird_Game.exe.config
+C:\Users\kisang\source\vcpp\Flappy_bird\Flappy_Bird_Game\Flappy_Bird_Game\Flappy_Bird_Game\bin\Debug\Flappy_Bird_Game.exe
+C:\Users\kisang\source\vcpp\Flappy_bird\Flappy_Bird_Game\Flappy_Bird_Game\Flappy_Bird_Game\bin\Debug\Flappy_Bird_Game.pdb
+C:\Users\kisang\source\vcpp\Flappy_bird\Flappy_Bird_Game\Flappy_Bird_Game\Flappy_Bird_Game\obj\Debug\Flappy_Bird_Game.csproj.AssemblyReference.cache
+C:\Users\kisang\source\vcpp\Flappy_bird\Flappy_Bird_Game\Flappy_Bird_Game\Flappy_Bird_Game\obj\Debug\Flappy_Bird_Game.Form1.resources
+C:\Users\kisang\source\vcpp\Flappy_bird\Flappy_Bird_Game\Flappy_Bird_Game\Flappy_Bird_Game\obj\Debug\Flappy_Bird_Game.Properties.Resources.resources
+C:\Users\kisang\source\vcpp\Flappy_bird\Flappy_Bird_Game\Flappy_Bird_Game\Flappy_Bird_Game\obj\Debug\Flappy_Bird_Game.csproj.GenerateResource.cache
+C:\Users\kisang\source\vcpp\Flappy_bird\Flappy_Bird_Game\Flappy_Bird_Game\Flappy_Bird_Game\obj\Debug\Flappy_Bird_Game.csproj.CoreCompileInputs.cache
+C:\Users\kisang\source\vcpp\Flappy_bird\Flappy_Bird_Game\Flappy_Bird_Game\Flappy_Bird_Game\obj\Debug\Flappy_Bird_Game.exe
+C:\Users\kisang\source\vcpp\Flappy_bird\Flappy_Bird_Game\Flappy_Bird_Game\Flappy_Bird_Game\obj\Debug\Flappy_Bird_Game.pdb
